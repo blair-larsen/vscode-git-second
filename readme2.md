@@ -1,3 +1,5 @@
 ### This is readme 2
 # second commit
-# third ammend from command line
+# third amend from command line
+
+# Entry from github edit
