@@ -5,3 +5,4 @@
 # Entry from github edit
 
 ## Edit into vscode-git-second-branch
+# New line
