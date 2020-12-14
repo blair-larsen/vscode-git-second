@@ -6,3 +6,4 @@
 
 ## Edit into vscode-git-second-branch
 # New line
+# Line in branch2
