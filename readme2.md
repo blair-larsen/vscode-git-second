@@ -10,3 +10,5 @@
 
 ## from new-branch
 # This is from local branch
+
+# Local-branch2 entry
